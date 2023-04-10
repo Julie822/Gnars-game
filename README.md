@@ -8,7 +8,7 @@ As a person who is interested in web3, NFTs and @gnars_dao, I decided to make a 
 To play the game, please download the zip file and run it on your own environment such as terminal, eclipse or Atom.
 For some users, the game may lag a lot when you have bluetooth headphones on due to the audio clips included in the game, so please disconnect it when playing. 
 
-# Development environment: Eclipse
-# For more, please follow me on twitter: @julie_7lo
+### Development environment: Eclipse
+## For more, please follow me on twitter: @julie_7lo
 
 Thanks for reading!
